@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title> Tabuada DNC </title>
+</head>
+<body>
+    <img src="logodnv.svg" alt="error">
+    <header>
+        <h1>
+            TABUADA
+        </h1>
+    </header>
+    <section>
+        <div id="principal">
+            <div id="pergunta">
+                <p>
+                    De qual número você deseja saber a tabuada? <br>
+                    <input type="number" id="n1">
+                </p>
+                <p>
+                    Até qual número você quer ver a multiplicação? <br>
+                    <input type="number" id="n2">
+                </p>
+                <button onclick="calcular()">
+                    Calcular
+                </button>
+            </div>
+            <div id="resposta">
+                Preencha os valores acima
+            </div>
+        </div>
+    </section>
+    <script src="function.js"></script>
+</body>
+</html>
