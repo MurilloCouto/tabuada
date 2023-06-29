@@ -19,7 +19,7 @@ Site desenvolvido para facilitar o cálculo de tabuadas.
 <hr>
 
 ### Está online? 📡
-SIM! Basta [clicar aqui](------------------------) para visualizar o site que está hospedado nos servidores da Netlify.
+SIM! Basta [clicar aqui](https://tabuada-dncc.netlify.app/) para visualizar o site que está hospedado nos servidores da Netlify.
 <hr>
 
 by Murillo Couto<br>
